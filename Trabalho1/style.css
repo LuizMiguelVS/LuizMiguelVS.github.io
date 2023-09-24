@@ -1,0 +1,27 @@
+body{ 
+    background-color: #C4F0C6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+section{
+    border: 1px dotted black
+
+}
+
+h1, p{
+    text-align: center;
+    
+}
+
+div{
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
+
+footer{
+    color: #21A0FF;
+}
+
+
