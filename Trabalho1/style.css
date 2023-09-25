@@ -34,10 +34,13 @@ footer{
 .botoes{
     background-color: #A7C6D9;
     width: 100px;
-    text-align: center;
     font-size: 22px;
     text-decoration: none;
     color: black;
+}
+
+.centtabela{
+    margin:auto;
 }
 
 
